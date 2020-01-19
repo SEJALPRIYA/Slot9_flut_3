@@ -1,8 +1,8 @@
 An app is a software application that helps us to perform a specific task.Flutter is Google's app SDK that allows a single codebase
-to be used for both ioS and Android platforms.
+to be used for both ioS and Android platforms.Flutter is the programming language used to code in Flutter.
 The structure:
 1.Android and iOS directories hold their respective files.Based on our platform choice we begin working in the respective directory.
-2.The lib directory holds the your dart code.
+2.The lib directory holds the dart code.
 3.pubspec.yaml file contains the app name, description, SDK version.
 4.Widgets are the basic building blocks of a Flutter app’s user interface.A widget can be a structural element like a button or 
 a stylistic element like a color scheme.
@@ -12,5 +12,7 @@ widgets responsible for layout, painting, positioning, and sizing.
  is stateful. For example, if a widget has a counter that increments whenever the user taps a button, the value of the counter is 
  the state for that widget.
  When that value changes, the widget needs to be rebuilt to update the UI.
-6.Flutter framework is made up of layers. We have material as the topmost layer ,appbar,widget layer,rendering etc.
+6.Flutter framework is made up of layers. We have material as the topmost layer ,appbar,widget layer,rendering layer, etc.
 
+NAME:SEJAL PRIYA   
+SRN:PES1UG19CS441
